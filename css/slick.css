@@ -34,8 +34,7 @@
 }
 .slick-list.dragging
 {
-    cursor: pointer;
-    cursor: hand;
+    cursor: none;
 }
 
 .slick-slider .slick-track,
